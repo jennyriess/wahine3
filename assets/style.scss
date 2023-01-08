@@ -52,10 +52,7 @@ h1 {
 }
 
 .intro {
-    display: flex;
-    justify-content: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
     background-color: teal;
     color: white !important;
     margin: 0 auto;
@@ -83,8 +80,9 @@ a:hover {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+
     background-color: pink;
-    width: 75%;
+    width: 74.5%;
     padding-top: 25px;
     padding-bottom: 25px;
     font-family: 'Eczar', serif;
@@ -95,6 +93,7 @@ a:hover {
 .wrapper-2 {
     display: flex;
     justify-content: center;
+    align-content: center;
 }
 
 .directory {
@@ -117,7 +116,6 @@ a:hover {
     border-color: purple;
     color: blue;
     overflow: hidden;
-
 }
 
 .token {
@@ -177,5 +175,9 @@ body {
     }
     
 
+  }
+
+  .hapa {
+    color: orange;
   }
 
