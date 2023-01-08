@@ -102,6 +102,7 @@ a:hover {
     padding-bottom: 50px;
 }
 
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -127,19 +128,21 @@ a:hover {
     background-color: teal;
 }
 
-form {
-    height: 300px;
-    width: 50%;
-    background-color: olivedrab;
-}
-
-aside {
-    background-color: aqua;
-}
-
 .bottom {
     display:flex;
     flex-wrap: wrap;
+}
+
+.wrapper-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.outro {
+    color: white;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    height: 100px;
 }
 
 footer {

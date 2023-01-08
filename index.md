@@ -310,9 +310,14 @@ layout: layout.njk
 </div>
 </div>
 </div>
-
 </div>
+<div class="wrapper-3">
+<section class="outro">
 
+`Looking to add a site? Email` [info@riessdesigns.com](mailto:info@riessdesigns.com) ` or tag` [@thehapadev](https://twitter.com/thehapadev)` on Twitter.`
+
+</section>
+</div>
 <footer>
 
 Site made by [TheHapaDev](https://thehapa.dev/) 
