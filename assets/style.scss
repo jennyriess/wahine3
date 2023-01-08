@@ -1,0 +1,111 @@
+nav {
+    background-color: purple;
+}
+
+li {
+    color: white;
+    list-style: none;
+}
+
+ul {
+    padding: 10px;
+}
+
+p {
+    padding: 5px;
+    border-color: black;
+    border-width: 2px;
+}
+
+h1 {
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    font-family: 'Eczar', serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 75%;
+}
+
+code {
+    color: blue;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+
+a:link {
+    color: blue;
+    font-family: 'Eczar', serif;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+a:hover {
+    color: coral;
+}
+
+footer {
+    background-color: blueviolet;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+form {
+    height: 300px;
+    width: 50%;
+    background-color: olivedrab;
+}
+
+aside {
+    background-color: aqua;
+}
+
+.wrapper-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.key-emoji {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: goldenrod;
+    width: 75%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: 'Eczar', serif;
+}
+
+.wrapper-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.directory {
+    background-color: lightgray;
+    width: 75%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+    background-color: pink;
+    padding: 10px;
+    border-style: double;
+    border-color: purple;
+}
