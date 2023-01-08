@@ -4,16 +4,14 @@ layout: layout.njk
 
 <nav>
     <ul>
-    <li>1</li>  
-    <li>2</li> 
-    <li>3</li> 
-    <li>4</li>   
+    <a href="https://twitter.com/thehapadev"><i class="fa fa-twitter" style="font-size:24px"></i></a>
+    <a href="https://github.com/jennyriess"><i class="fa fa-github" style="font-size:24px"></i></a>
     </ul>
 </nav>
 
 <div class="header">
 
-# Women Building Web3 (Wahine in Web3)
+# `#`WomenBuildingWeb3
 
 </div>
 
@@ -26,31 +24,62 @@ layout: layout.njk
 <div class="wrapper-1">
 <div class="key-emoji">
 
+<div class="token">
 💎 NFT/PFP 
+</div>
 
+<div class="token">
 🧠 Educational Resources/Courses
+</div>
 
+<div class="token">
 🎟️ Utility Pass
+</div>
 
+<div class="token">
 🎨 Artist Programs
+</div>
 
+<div class="token">
 🔨 Developers 
+</div>
 
+<div class="token">
 🤝 DAO/Community
+</div>
 
+<div class="token">
 👼🏽 Angels/Investors
+</div>
 
+<div class="token">
 👔 Web3 Jobs
+</div>
 
+<div class="token">
 💸 Finances/Crypto
+</div>
 
+<div class="token">
 🌈 LGBTQ+/Nonbinary
+</div>
 
+<div class="token">
 ♻️ Mentorship
+</div>
 
+<div class="token">
+⚖️ Legal
+</div>
+
+<div class="token">
 👾 Discord 
 </div>
+
 </div>
+</div>
+
+<div class="thefinaldiv">
 
 <div class="wrapper-2">
 
@@ -199,8 +228,7 @@ layout: layout.njk
 
 [Blu3DAO](https://www.blu3dao.com/) 🤝 🌈 🔨 🧠 
 
-`Blu3 DAO’s mission is to empower women to achieve financial freedom
- through learning, exploring and building their careers in the Web3 space.`
+`Blu3 DAO’s mission is to empower women to achieve financial freedom through learning, exploring and building their careers in the Web3 space.`
 
 </div>
 
@@ -260,14 +288,29 @@ layout: layout.njk
 
 </div>
 
+<div class="grid-item">
+
+[WomenMakingWaves](https://womenmakingwaves.io/) 💎 🤝 ⚖️ 
+
+`Women Making Waves exists to bring together a community of women and women supporters to leverage Web3 technology, to fund experts who have proven success in tactically transforming women’s rights laws across the USA and Australia.`
+
+</div>
+
+<div class="grid-item">
+
+[Women in Blockchain](https://womeninblockchain.global/) 🤝 👔 🧠 👾
+
+`Women in Blockchain (WiB), founded in 2017, is one of the earliest grassroots efforts with a mission to enable a diverse crypto ecosystem through our education, research, career development, and community initiatives.`
+
 </div>
 </div>
 </div>
 </div>
-<aside>
-    <form></form>
-</aside>
+</div>
+</div>
 
 <footer>
-    Testing 1,2,3
+
+Site made by [TheHapaDev](https://thehapa.dev/) 
+
 </footer>

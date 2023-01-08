@@ -1,9 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 nav {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
     background-color: purple;
 }
 
-li {
+.fa-github {
     color: white;
+    padding: 10px;
+
+}
+
+.fa-twitter {
+    color: white;
+    padding: 10px;
+
+}
+
+li {
     list-style: none;
 }
 
@@ -18,7 +37,6 @@ p {
 }
 
 h1 {
-    background-color: coral;
     display: flex;
     justify-content: center;
     font-family: 'Eczar', serif;
@@ -27,15 +45,19 @@ h1 {
     width: 75%;
 }
 
-code {
-    color: blue;
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: coral;
 }
 
 .intro {
     display: flex;
     justify-content: center;
-    padding-top: 0;
+    padding-top: 20px;
     padding-bottom: 20px;
+    background-color: teal;
+    color: white !important;
 }
 
 a:link {
@@ -49,12 +71,57 @@ a:hover {
     color: coral;
 }
 
-footer {
-    background-color: blueviolet;
-    padding: 25px;
+.wrapper-1 {
     display: flex;
     justify-content: center;
-    color: white;
+    background-color: teal;
+}
+
+.key-emoji {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: pink;
+    width: 75%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: 'Eczar', serif;
+    border-style: double;
+    border-color: purple;
+}
+
+.wrapper-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.directory {
+    background-color: teal;
+    width: 75%;
+    padding-bottom: 50px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: teal;
+}
+
+.grid-item {
+    background-color: pink;
+    padding: 10px;
+    border-style: double;
+    border-color: purple;
+    color: blue;
+}
+
+.token {
+    padding: 12px;
+}
+
+.thefinaldiv {
+    display: flex;
+    background-color: teal;
 }
 
 form {
@@ -67,45 +134,16 @@ aside {
     background-color: aqua;
 }
 
-.wrapper-1 {
-    display: flex;
-    justify-content: center;
-}
-
-.header {
-    display: flex;
-    justify-content: center;
-}
-
-.key-emoji {
-    display: flex;
+.bottom {
+    display:flex;
     flex-wrap: wrap;
-    justify-content: center;
-    background-color: goldenrod;
-    width: 75%;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    font-family: 'Eczar', serif;
 }
 
-.wrapper-2 {
+footer {
+    background-color: blueviolet;
+    padding: 25px;
     display: flex;
     justify-content: center;
-}
-
-.directory {
-    background-color: lightgray;
-    width: 75%;
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-}
-
-.grid-item {
-    background-color: pink;
-    padding: 10px;
-    border-style: double;
-    border-color: purple;
+    color: white;
+    font-family: 'Eczar', serif;
 }
