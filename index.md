@@ -9,6 +9,8 @@ layout: layout.njk
     </ul>
 </nav>
 
+<div class="outside-wrapper">
+
 <div class="header">
 
 # `#`WomenBuildingWeb3
@@ -307,6 +309,8 @@ layout: layout.njk
 </div>
 </div>
 </div>
+</div>
+
 </div>
 
 <footer>

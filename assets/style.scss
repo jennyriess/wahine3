@@ -58,10 +58,11 @@ h1 {
     padding-bottom: 20px;
     background-color: teal;
     color: white !important;
+    margin: 0 auto;
 }
 
 a:link {
-    color: blue;
+    color: rgba(0, 0, 255, 0.351);
     font-family: 'Eczar', serif;
     text-decoration: none;
     font-weight: 300;
@@ -81,6 +82,7 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     background-color: pink;
     width: 75%;
     padding-top: 25px;
@@ -150,3 +152,30 @@ footer {
     color: white;
     font-family: 'Eczar', serif;
 }
+
+
+.outside-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+body {
+    background-color: teal;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  
+
+  }
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 401px) and (max-width: 960px) {
+    .grid-container {
+        display: block;
+    }
+    
+
+  }
+
