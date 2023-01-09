@@ -7,6 +7,7 @@ layout: layout.njk
     <a href="https://twitter.com/thehapadev"><i class="fa fa-twitter" style="font-size:24px"></i></a>
     <a href="https://github.com/jennyriess"><i class="fa fa-github" style="font-size:24px"></i></a>
     </ul>
+    <input type="button" class="btn btn-glow btn-primary" value="Connect Wallet" onclick="connect();">
 </nav>
 
 <div class="outside-wrapper">

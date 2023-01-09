@@ -21,16 +21,35 @@
   <style> @import url('https://fonts.googleapis.com/css2?family=Eczar&display=swap'); </style>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.4-rc.1/web3.min.js"></script>
+
 </head>
 
 <body>
+
+<script>
+/* To connect using MetaMask */
+async function connect() {
+  if (window.ethereum) {
+     await window.ethereum.request({ method: "eth_requestAccounts" });
+     window.web3 = new Web3(window.ethereum);
+     const account = web3.eth.accounts;
+     //Get the current MetaMask selected/active wallet
+     const walletAddress = account.givenProvider.selectedAddress;
+     console.log(`Wallet: ${walletAddress}`);
+  
+  } else {
+   console.log("No wallet");
+  }
+}
+</script>
 
 <nav>
     <ul>
     <a href="https://twitter.com/thehapadev"><i class="fa fa-twitter" style="font-size:24px"></i></a>
     <a href="https://github.com/jennyriess"><i class="fa fa-github" style="font-size:24px"></i></a>
     </ul>
+    <input type="button" class="btn btn-glow btn-primary" value="Connect Wallet" onclick="connect();">
 </nav>
 <div class="outside-wrapper">
 <div class="header">
@@ -238,7 +257,7 @@
 </section>
 </div>
 <footer>
-<p>Site made by <img class ="kitty" src="./assets/cat.gif" alt=""> <a href="https://thehapa.dev/">TheHapaDev</a></p>
+<p>Site made by <img src="./assets/cat.gif" alt=""> <a href="https://thehapa.dev/">TheHapaDev</a></p>
 </footer>
 
 </body>
