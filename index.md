@@ -13,13 +13,13 @@ layout: layout.njk
 
 <div class="header">
 
-# `#`WomenBuildingWeb3
+# `#`WahineonWeb3
 
 </div>
 
 <div class="intro">
 
-`a directory of projects in the web3 space by and for womxn.`
+`a directory of projects in the web3 space by and for women.`
 
 </div>
 
@@ -305,6 +305,56 @@ layout: layout.njk
 `Women in Blockchain (WiB), founded in 2017, is one of the earliest grassroots efforts with a mission to enable a diverse crypto ecosystem through our education, research, career development, and community initiatives.`
 
 </div>
+
+<div class="grid-item">
+
+[Web3 For Basic Bs (Lenstube)](https://lenstube.xyz/channel/web3forbasicbs.lens) 🧠 
+
+`Empowering all the basic b*tches on all things web3.`
+
+</div>
+
+<div class="grid-item">
+
+[Wahine Coder](https://wahinecoder.com/) 🔨 ♻️  
+
+`Web2 Company offerings web services and mentoring the next generation of wāhine developers, innovators and makers in Hawaiʻi.`
+
+</div>
+
+<div class="grid-item">
+
+[Crypto Lady Gang](hhttps://www.cryptoladygang.io/) 🤝 🎨
+
+`Crypto Lady Gang is a community for women artists to connect who are in the NFT industry. Its goal is to create a directory and art gallery to highlight and promote women in the space for collectors and investors to discover.`
+
+</div>
+
+<div class="grid-item">
+
+[Baddies in Tech](https://www.baddiesintech.com/dao) 🤝 👔 ♻️ 🧠 👾
+
+`Baddies in Tech DAO is a decentralized collective of change-makers championing the inclusion of women of color in tech.`
+
+</div>
+
+<div class="grid-item">
+
+[Web3 Designers](https://www.web3designers.org/) 🤝 🎨 👔 👾
+
+`Connecting badass designers with awesome gigs in the crypto universe.`
+
+</div>
+
+<div class="grid-item">
+
+[Women Who Design](https://womenwho.design/) 🤝 🎨
+
+`Women Who Design is a Twitter directory of accomplished women in the design industry.`
+
+</div>
+
+
 </div>
 </div>
 </div>
@@ -314,7 +364,8 @@ layout: layout.njk
 <div class="wrapper-3">
 <section class="outro">
 
-`Looking to add a site? Email` [info@riessdesigns.com](mailto:info@riessdesigns.com) ` or tag` [@thehapadev](https://twitter.com/thehapadev)` on Twitter.`
+`Looking to add a site?`
+`Email` [info@riessdesigns.com](mailto:info@riessdesigns.com) ` or tag` [@thehapadev](https://twitter.com/thehapadev)` on Twitter.`
 
 </section>
 </div>
