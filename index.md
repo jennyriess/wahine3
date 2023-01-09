@@ -325,7 +325,7 @@ layout: layout.njk
 
 <div class="grid-item">
 
-[Crypto Lady Gang](hhttps://www.cryptoladygang.io/) 🤝 🎨
+[Crypto Lady Gang](https://www.cryptoladygang.io/) 🤝 🎨
 
 `Crypto Lady Gang is a community for women artists to connect who are in the NFT industry. Its goal is to create a directory and art gallery to highlight and promote women in the space for collectors and investors to discover.`
 
