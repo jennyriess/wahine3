@@ -371,6 +371,6 @@ layout: layout.njk
 </div>
 <footer>
 
-Site made by [TheHapaDev](https://thehapa.dev/) 
+Site made by ![](./assets/cat.gif) [TheHapaDev](https://thehapa.dev/) 
 
 </footer>

@@ -1,6 +1,12 @@
 * {
     margin: 0;
     padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
 }
 
 nav {
@@ -187,3 +193,7 @@ body {
     color: orange;
   }
 
+  .kitty {
+    height: 40px;
+    width: 40px;
+  }
