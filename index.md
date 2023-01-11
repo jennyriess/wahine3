@@ -355,6 +355,30 @@ layout: layout.njk
 
 </div>
 
+<div class="grid-item">
+
+[Web3Baddies](https://www.web3baddies.com/) 🤝 🌈
+
+`A community for the girlies, gays, non-binaries, & baddies in web3`
+
+</div>
+
+<div class="grid-item">
+
+[Her House](https://www.herhouse.io/) 🤝 🎨 🧠 ♻️
+
+`A web3 ecosystem of women and non-binary builders collaborating to launch and scale growth.`
+
+</div>
+
+<div class="grid-item">
+
+[MetaHers](http://metahers.xyz/) 🤝 🧠 ♻️
+
+`Metaverse Academy for Women and Children in Web3` 
+
+</div>
+
 
 </div>
 </div>
