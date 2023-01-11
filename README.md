@@ -1,3 +1,3 @@
 # wahineofweb3
 
-Deployed on Deno.
+To add to this list, please submit a PR or tag @thehapadev on twitter. 
